@@ -1,2 +1,0 @@
-# SNTrang
-simple
